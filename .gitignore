@@ -1,0 +1,18 @@
+# Виртуальное окружение
+venv/
+.venv/
+
+# База данных
+users.db
+
+# PyCharm
+.idea/
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Токен и секреты
+.env
